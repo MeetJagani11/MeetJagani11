@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Meet Jagani 👋
 
-<!--
-**MeetJagani11/MeetJagani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
+💻 Full Stack Developer
+🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech Information Technology student interested in Full Stack Development, Artificial Intelligence, and building real-world applications.
+
+I enjoy working with modern web technologies and developing practical software solutions.
+
+## Tech Stack
+
+* React.js
+* JavaScript
+* Node.js
+* Express.js
+* Python
+* MongoDB
+* Tailwind CSS
+* Three.js
+* Git & GitHub
+
+## Featured Project
+
+### SmartFurni – AI Furniture Recommendation System
+
+An AI-powered furniture recommendation platform that helps users find suitable furniture based on room type, room dimensions, budget, and style preferences.
+
+### Features
+
+* AI-based furniture recommendations
+* Product browsing
+* Wishlist
+* Product comparison
+* 3D Room Planner
+* Budget-based recommendations
+* Admin Panel
+
+## Currently Learning
+
+* Advanced Full Stack Development
+* AI/ML
+* System Design
+* Three.js
+* Cloud & Deployment
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/meet-jagani-53b0243a8]
