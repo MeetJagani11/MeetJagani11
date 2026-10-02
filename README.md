@@ -1,51 +1,95 @@
 # Hi, I'm Meet Jagani 👋
 
-🎓 B.Tech IT Student
-💻 Full Stack Developer
-🤖 AI/ML Enthusiast
+### 💻 Full Stack Developer | B.Tech IT Student | AI/ML Enthusiast
 
-## About Me
+I’m a passionate Information Technology student who enjoys building modern, scalable, and user-friendly web applications. I love exploring new technologies, solving real-world problems, and turning ideas into practical digital solutions.
 
-I'm a B.Tech Information Technology student interested in Full Stack Development, Artificial Intelligence, and building real-world applications.
+---
 
-I enjoy working with modern web technologies and developing practical software solutions.
+## 🚀 About Me  
 
-## Tech Stack
+- 🎓 Pursuing B.Tech in Information Technology
+- 💻 Interested in Full Stack Development and Software Engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Currently improving my skills in MERN Stack, AI/ML, and System Design
+- 🔭 Working on real-world projects with modern technologies
+- 🎯 Focused on continuous learning and building impactful applications
 
-* React.js
-* JavaScript
-* Node.js
-* Express.js
-* Python
-* MongoDB
-* Tailwind CSS
-* Three.js
-* Git & GitHub
+---
 
-## Featured Project
+## 🛠️ Tech Stack & Tools
 
-### SmartFurni – AI Furniture Recommendation System
+**Frontend Development**
+- HTML5, CSS3, JavaScript
+- React.js, Tailwind CSS
+- Three.js
 
-An AI-powered furniture recommendation platform that helps users find suitable furniture based on room type, room dimensions, budget, and style preferences.
+**Backend Development**
+- Node.js, Express.js
+- REST APIs
+- JWT Authentication
 
-### Features
+**Database & Programming**
+- MongoDB, MySQL
+- C, C++, Java, Python
 
-* AI-based furniture recommendations
-* Product browsing
-* Wishlist
-* Product comparison
-* 3D Room Planner
-* Budget-based recommendations
-* Admin Panel
+**Tools & Technologies**
+- Git & GitHub
+- VS Code
+- Postman
+- MongoDB Atlas
 
-## Currently Learning
+---
 
-* Advanced Full Stack Development
-* AI/ML
-* System Design
-* Three.js
-* Cloud & Deployment
+## 🌟 Featured Projects
 
-## Connect With Me
+### 🪑 SmartFurni – AI Furniture Recommendation System
 
-LinkedIn: [www.linkedin.com/in/meet-jagani-53b0243a8]
+An AI-powered furniture recommendation platform that helps users discover suitable furniture based on room dimensions, budget, room type, and style preferences.
+
+**Key Features:**
+- 🤖 AI-Based Furniture Recommendations
+- 🏠 3D Room Planner
+- 🛋️ Furniture Browsing & Comparison
+- ❤️ Wishlist Management
+- 💰 Budget-Based Recommendations
+- ⚙️ Admin Dashboard
+- 🌱 Sustainability & Eco Score
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, Three.js
+
+---
+
+## 📚 Currently Learning
+
+- Advanced MERN Stack Development
+- Artificial Intelligence & Machine Learning
+- Transfer Learning & Computer Vision
+- System Design & Software Architecture
+- 3D Web Development with Three.js
+- Cloud Computing & Deployment
+
+---
+
+## 📊 GitHub Statistics
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Meet Jagani](https://www.linkedin.com/in/meet-jagani-53b0243a8/)
+- 🐙 GitHub: [Meet Jagani](https://github.com/MeetJagani11)
+
+---
+
+### 💡 "Building ideas into reality, one line of code at a time."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
