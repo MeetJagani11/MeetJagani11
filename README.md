@@ -6,7 +6,7 @@ I’m a passionate Information Technology student who enjoys building modern, sc
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
 - 🎓 Pursuing B.Tech in Information Technology
 - 💻 Interested in Full Stack Development and Software Engineering
@@ -70,8 +70,6 @@ An AI-powered furniture recommendation platform that helps users discover suitab
 - Cloud Computing & Deployment
 
 ---
-
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
